@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Smartwatch FitPro",
+    "price": "R$149,90",
+    "image": "https://via.placeholder.com/200",
+    "category": "eletrônicos"
+  },
+  {
+    "id": 2,
+    "name": "Luminária LED Articulada",
+    "price": "R$89,90",
+    "image": "https://via.placeholder.com/200",
+    "category": "casa"
+  },
+  {
+    "id": 3,
+    "name": "Fone Bluetooth X200",
+    "price": "R$119,90",
+    "image": "https://via.placeholder.com/200",
+    "category": "eletrônicos"
+  },
+  {
+    "id": 4,
+    "name": "Organizador de Cabos",
+    "price": "R$29,90",
+    "image": "https://via.placeholder.com/200",
+    "category": "utilidades"
+  },
+  {
+    "id": 5,
+    "name": "Mini Ventilador USB",
+    "price": "R$59,90",
+    "image": "https://via.placeholder.com/200",
+    "category": "eletrônicos"
+  },
+  {
+    "id": 6,
+    "name": "Suporte de Celular Veicular",
+    "price": "R$34,90",
+    "image": "https://via.placeholder.com/200",
+    "category": "acessórios"
+  },
+  {
+    "id": 7,
+    "name": "Caneca Térmica Inox",
+    "price": "R$44,90",
+    "image": "https://via.placeholder.com/200",
+    "category": "casa"
+  },
+  {
+    "id": 8,
+    "name": "Cortador de Legumes 3 em 1",
+    "price": "R$69,90",
+    "image": "https://via.placeholder.com/200",
+    "category": "cozinha"
+  }
+]
